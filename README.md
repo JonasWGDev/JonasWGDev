@@ -7,6 +7,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasWGDev&show_icons=true&theme=dracula)
 
+## Linguagens de programação
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasWGDev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu ultilizo
 
 <div>
