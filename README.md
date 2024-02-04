@@ -1,29 +1,24 @@
-## Olá! Eu me chamo Jonas Wincler seja bem-vindo ao meu github. 👋
+## Bem-vindo(a) ao meu perfil
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jonas_Gabriel77)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100055177132622)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-wincler-27998a255/)
+Olá meu nome é Jonas Wincler, tenho 18 anos estudo desenvolvimento Web Front end a um pouco mais de 1 ano.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasWGDev&show_icons=true&theme=radical)
+Também sou voluntário na APAE da minha cidade a um pouco mais de 2 anos meu trabalho principal lá é digitalizar cupons fiscais que as pessoas doam e no fim são convertidos em dinheiro para a instituição.
+Más também faço outros trabalhos quando a necessidade como consertar e instalar coisas relacionadas a informática.
 
-## Linguagens de programação
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasWGDev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+• Sou autista nível 1 de suporte
 
-## Contato
-Email: jonaswdev@gmail.com
-
-## Tecnologias que eu ultilizo
-
-[![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-
-[![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
-
-[![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+ <div>
+   <a href="https://github.com/JonasWGDev/">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonasWGDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasWGDev&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+ 
+<br>
+ 
+### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  <a href="https://www.instagram.com/jonasgabrielw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jonaswdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonas-wincler-27998a255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
